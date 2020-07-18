@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Test2.qml</file>
+        <file>lightbackground.svg</file>
+        <file>test.png</file>
+        <file>cover.png</file>
+        <file>Test.qml</file>
+    </qresource>
+</RCC>
